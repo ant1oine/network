@@ -11,3 +11,7 @@ Extra steps:
 - Date & Time will be displayed on top 
 - Multiple colours and style used to create user-friendly environment
 
+## How to Run Script?
+
+zsh - In your terminal run:      ***zsh details.zsh***  
+bash - In your terminal run:      ***bash details.zsh***
