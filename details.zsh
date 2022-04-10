@@ -21,9 +21,6 @@ echo $white"                                  "$close
 echo
 
 
-
-
-
 # Model Name
 
 model=`system_profiler SPHardwareDataType | grep "Model Name" | cut -d : -f2`
